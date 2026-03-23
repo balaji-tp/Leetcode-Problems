@@ -4,12 +4,12 @@ class hello{
             return false;
         }
 
-        char[] st1 = s.toCharArray();
-        char[] st2 = t.toCharArray();
+        char[] st0 = s.toCharArray();
+        char[] st1 = t.toCharArray();
 
+        Arrays.sort(st0);
         Arrays.sort(st1);
-        Arrays.sort(st2);
 
-        return Arrays.equals(st1, st2);
+        return Arrays.equals(st0, st1);
     }
 }
