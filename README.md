@@ -13,6 +13,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 # 📚 Structured Problem Solving Topics
 
 
+### Array
+<details>
+<summary>Click to expand Array problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 78 | [Subsets](./Array/Subsets/) | Medium |
+
+</details>
+
+
 ### Hash Table
 <details>
 <summary>Click to expand Hash Table problems</summary>
