@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T14:17:37.932Z",
+  "lastUpdated": "2026-07-22T14:17:43.379Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -276,149 +276,189 @@
             }
           }
         },
-        "detect-capital": {
-          "questionId": "520",
-          "title": "Detect Capital",
-          "titleSlug": "detect-capital",
+        "find-pivot-index": {
+          "questionId": "724",
+          "title": "Find Pivot Index",
+          "titleSlug": "find-pivot-index",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729863379,
+              "runtime": "1 ms",
+              "memory": "47.5 MB",
+              "githubPath": "LeetCode/Array/Find Pivot Index/"
+            }
+          }
+        },
+        "longest-continuous-increasing-subsequence": {
+          "questionId": "674",
+          "title": "Longest Continuous Increasing Subsequence",
+          "titleSlug": "longest-continuous-increasing-subsequence",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729863379,
+              "runtime": "1 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Longest Continuous Increasing Subsequence/"
+            }
+          }
+        },
+        "count-binary-substrings": {
+          "questionId": "696",
+          "title": "Count Binary Substrings",
+          "titleSlug": "count-binary-substrings",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729863379,
+              "runtime": "5 ms",
+              "memory": "46.2 MB",
+              "githubPath": "LeetCode/Two Pointers/Count Binary Substrings/"
+            }
+          }
+        },
+        "second-minimum-node-in-a-binary-tree": {
+          "questionId": "671",
+          "title": "Second Minimum Node In a Binary Tree",
+          "titleSlug": "second-minimum-node-in-a-binary-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729863379,
+              "runtime": "1 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Tree/Second Minimum Node In a Binary Tree/"
+            }
+          }
+        },
+        "image-smoother": {
+          "questionId": "661",
+          "title": "Image Smoother",
+          "titleSlug": "image-smoother",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729863379,
+              "runtime": "4 ms",
+              "memory": "47.8 MB",
+              "githubPath": "LeetCode/Array/Image Smoother/"
+            }
+          }
+        },
+        "two-sum-iv-input-is-a-bst": {
+          "questionId": "653",
+          "title": "Two Sum IV - Input is a BST",
+          "titleSlug": "two-sum-iv-input-is-a-bst",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Two Pointers",
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729863379,
+              "runtime": "3 ms",
+              "memory": "47.8 MB",
+              "githubPath": "LeetCode/Hash Table/Two Sum IV - Input is a BST/"
+            }
+          }
+        },
+        "reverse-words-in-a-string-iii": {
+          "questionId": "557",
+          "title": "Reverse Words in a String III",
+          "titleSlug": "reverse-words-in-a-string-iii",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729863379,
+              "runtime": "12 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Words in a String III/"
+            }
+          }
+        },
+        "longest-uncommon-subsequence-i": {
+          "questionId": "521",
+          "title": "Longest Uncommon Subsequence I",
+          "titleSlug": "longest-uncommon-subsequence-i",
           "difficulty": "Easy",
           "tags": [
             "String"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729857932,
-              "runtime": "2 ms",
-              "memory": "43.4 MB",
-              "githubPath": "LeetCode/String/Detect Capital/"
-            }
-          }
-        },
-        "prime-number-of-set-bits-in-binary-representation": {
-          "questionId": "762",
-          "title": "Prime Number of Set Bits in Binary Representation",
-          "titleSlug": "prime-number-of-set-bits-in-binary-representation",
-          "difficulty": "Easy",
-          "tags": [
-            "Math",
-            "Bit Manipulation"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729857932,
-              "runtime": "5 ms",
-              "memory": "42.3 MB",
-              "githubPath": "LeetCode/Math/Prime Number of Set Bits in Binary Representation/"
-            }
-          }
-        },
-        "flood-fill": {
-          "questionId": "733",
-          "title": "Flood Fill",
-          "titleSlug": "flood-fill",
-          "difficulty": "Easy",
-          "tags": [
-            "Array",
-            "Depth-First Search",
-            "Breadth-First Search",
-            "Matrix"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729857932,
-              "runtime": "1 ms",
-              "memory": "47 MB",
-              "githubPath": "LeetCode/Array/Flood Fill/"
-            }
-          }
-        },
-        "min-cost-climbing-stairs": {
-          "questionId": "746",
-          "title": "Min Cost Climbing Stairs",
-          "titleSlug": "min-cost-climbing-stairs",
-          "difficulty": "Easy",
-          "tags": [
-            "Array",
-            "Dynamic Programming"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729857932,
+              "syncedAt": 1784729863379,
               "runtime": "0 ms",
-              "memory": "44.8 MB",
-              "githubPath": "LeetCode/Array/Min Cost Climbing Stairs/"
-            }
-          }
-        },
-        "find-smallest-letter-greater-than-target": {
-          "questionId": "744",
-          "title": "Find Smallest Letter Greater Than Target",
-          "titleSlug": "find-smallest-letter-greater-than-target",
-          "difficulty": "Easy",
-          "tags": [
-            "Array",
-            "Binary Search"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729857932,
-              "runtime": "0 ms",
-              "memory": "46.5 MB",
-              "githubPath": "LeetCode/Array/Find Smallest Letter Greater Than Target/"
-            }
-          }
-        },
-        "valid-palindrome-ii": {
-          "questionId": "680",
-          "title": "Valid Palindrome II",
-          "titleSlug": "valid-palindrome-ii",
-          "difficulty": "Easy",
-          "tags": [
-            "Two Pointers",
-            "String",
-            "Greedy"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729857932,
-              "runtime": "4 ms",
-              "memory": "48 MB",
-              "githubPath": "LeetCode/Two Pointers/Valid Palindrome II/"
-            }
-          }
-        },
-        "maximum-depth-of-n-ary-tree": {
-          "questionId": "559",
-          "title": "Maximum Depth of N-ary Tree",
-          "titleSlug": "maximum-depth-of-n-ary-tree",
-          "difficulty": "Easy",
-          "tags": [
-            "Tree",
-            "Depth-First Search",
-            "Breadth-First Search"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729857932,
-              "runtime": "0 ms",
-              "memory": "45.1 MB",
-              "githubPath": "LeetCode/Tree/Maximum Depth of N-ary Tree/"
-            }
-          }
-        },
-        "self-dividing-numbers": {
-          "questionId": "728",
-          "title": "Self Dividing Numbers",
-          "titleSlug": "self-dividing-numbers",
-          "difficulty": "Easy",
-          "tags": [
-            "Math"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729857932,
-              "runtime": "1 ms",
               "memory": "42.8 MB",
-              "githubPath": "LeetCode/Math/Self Dividing Numbers/"
+              "githubPath": "LeetCode/String/Longest Uncommon Subsequence I/"
+            }
+          }
+        },
+        "longest-harmonious-subsequence": {
+          "questionId": "594",
+          "title": "Longest Harmonious Subsequence",
+          "titleSlug": "longest-harmonious-subsequence",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window",
+            "Sorting",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729863379,
+              "runtime": "16 ms",
+              "memory": "48.4 MB",
+              "githubPath": "LeetCode/Array/Longest Harmonious Subsequence/"
+            }
+          }
+        },
+        "license-key-formatting": {
+          "questionId": "482",
+          "title": "License Key Formatting",
+          "titleSlug": "license-key-formatting",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729863379,
+              "runtime": "10 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/String/License Key Formatting/"
             }
           }
         }
