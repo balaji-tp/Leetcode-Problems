@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T15:25:26.381Z",
+  "lastUpdated": "2026-07-22T15:25:35.919Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3729,7 +3729,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732748786,
+              "syncedAt": 1784733935919,
               "runtime": "5 ms",
               "memory": "63.3 MB",
               "githubPath": "LeetCode/Tree/Minimum Depth of Binary Tree/"
@@ -3750,7 +3750,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732748786,
+              "syncedAt": 1784733935919,
               "runtime": "22 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Array/Valid Triangle Number/"
@@ -3768,7 +3768,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732748786,
+              "syncedAt": 1784733935919,
               "runtime": "0 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/Array/Search Insert Position/"
@@ -3786,7 +3786,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732748786,
+              "syncedAt": 1784733935919,
               "runtime": "9 ms",
               "memory": "45.5 MB",
               "githubPath": "LeetCode/Array/Triangle/"
@@ -3804,7 +3804,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732748786,
+              "syncedAt": 1784733935919,
               "runtime": "3 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/Array/Third Maximum Number/"
@@ -3823,7 +3823,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732748786,
+              "syncedAt": 1784733935919,
               "runtime": "1 ms",
               "memory": "41.4 MB",
               "githubPath": "LeetCode/Hash Table/Fraction to Recurring Decimal/"
@@ -3842,7 +3842,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732748786,
+              "syncedAt": 1784733935919,
               "runtime": "0 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/Array/Maximum Count of Positive Integer and Negative Integer/"
@@ -3860,7 +3860,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732748786,
+              "syncedAt": 1784733935919,
               "runtime": "2 ms",
               "memory": "55.6 MB",
               "githubPath": "LeetCode/Array/Product of Array Except Self/"
@@ -3879,7 +3879,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732748786,
+              "syncedAt": 1784733935919,
               "runtime": "2 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/Array/Count Elements With Maximum Frequency/"
@@ -3898,7 +3898,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732748786,
+              "syncedAt": 1784733935919,
               "runtime": "0 ms",
               "memory": "40.8 MB",
               "githubPath": "LeetCode/Math/Power of Two/"
@@ -3915,7 +3915,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732748786,
+              "syncedAt": 1784733935919,
               "runtime": "3 ms",
               "memory": "59.7 MB",
               "githubPath": "LeetCode/Array/Monotonic Array/"
@@ -3933,7 +3933,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732748787,
+              "syncedAt": 1784733935919,
               "runtime": "0 ms",
               "memory": "46.1 MB",
               "githubPath": "LeetCode/Array/Binary Search/"
@@ -3951,7 +3951,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732748787,
+              "syncedAt": 1784733935919,
               "runtime": "1 ms",
               "memory": "42.2 MB",
               "githubPath": "LeetCode/Math/Excel Sheet Column Number/"
@@ -3969,7 +3969,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732748787,
+              "syncedAt": 1784733935919,
               "runtime": "0 ms",
               "memory": "49.3 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse String/"
@@ -3988,7 +3988,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732748787,
+              "syncedAt": 1784733935919,
               "runtime": "0 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Array/Merge Sorted Array/"
@@ -4006,7 +4006,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732748787,
+              "syncedAt": 1784733935919,
               "runtime": "8 ms",
               "memory": "44.3 MB",
               "githubPath": "LeetCode/Math/Power of Three/"
@@ -4023,7 +4023,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732748787,
+              "syncedAt": 1784733935919,
               "runtime": "1 ms",
               "memory": "41 MB",
               "githubPath": "LeetCode/Math/Ugly Number/"
@@ -4042,7 +4042,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732748787,
+              "syncedAt": 1784733935919,
               "runtime": "0 ms",
               "memory": "41.3 MB",
               "githubPath": "LeetCode/Stack/Implement Stack using Queues/"
@@ -4062,7 +4062,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732748787,
+              "syncedAt": 1784733935919,
               "runtime": "4 ms",
               "memory": "59.8 MB",
               "githubPath": "LeetCode/Linked List/Palindrome Linked List/"
@@ -4080,7 +4080,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732748787,
+              "syncedAt": 1784733935919,
               "runtime": "15 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Hash Table/Isomorphic Strings/"
