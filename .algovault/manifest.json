@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T15:24:14.657Z",
+  "lastUpdated": "2026-07-22T15:24:21.605Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1998,7 +1998,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732668230,
+              "syncedAt": 1784733861604,
               "runtime": "15 ms",
               "memory": "51.7 MB",
               "githubPath": "LeetCode/Array/Assign Cookies/"
@@ -2016,7 +2016,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732668230,
+              "syncedAt": 1784733861605,
               "runtime": "7 ms",
               "memory": "67 MB",
               "githubPath": "LeetCode/Array/Find All Numbers Disappeared in an Array/"
@@ -2034,7 +2034,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732668230,
+              "syncedAt": 1784733861605,
               "runtime": "5 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Math/Arranging Coins/"
@@ -2051,7 +2051,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732668230,
+              "syncedAt": 1784733861605,
               "runtime": "0 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/String/Number of Segments in a String/"
@@ -2070,7 +2070,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732668230,
+              "syncedAt": 1784733861605,
               "runtime": "2 ms",
               "memory": "43.9 MB",
               "githubPath": "LeetCode/Math/Add Strings/"
@@ -2089,7 +2089,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732668230,
+              "syncedAt": 1784733861605,
               "runtime": "1 ms",
               "memory": "46.8 MB",
               "githubPath": "LeetCode/Math/Fizz Buzz/"
@@ -2108,7 +2108,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732668230,
+              "syncedAt": 1784733861605,
               "runtime": "5 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/Hash Table/Longest Palindrome/"
@@ -2127,7 +2127,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732668230,
+              "syncedAt": 1784733861605,
               "runtime": "0 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Math/Convert a Number to Hexadecimal/"
@@ -2147,7 +2147,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732668230,
+              "syncedAt": 1784733861605,
               "runtime": "0 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Tree/Sum of Left Leaves/"
@@ -2165,7 +2165,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732668230,
+              "syncedAt": 1784733861605,
               "runtime": "1 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Backtracking/Binary Watch/"
