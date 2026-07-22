@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T15:04:15.384Z",
+  "lastUpdated": "2026-07-22T15:04:21.411Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1797,6 +1797,191 @@
               "runtime": "2077 ms",
               "memory": "42.1 MB",
               "githubPath": "LeetCode/Math/Perfect Number/"
+            }
+          }
+        },
+        "relative-ranks": {
+          "questionId": "506",
+          "title": "Relative Ranks",
+          "titleSlug": "relative-ranks",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sorting",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732661410,
+              "runtime": "10 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/Array/Relative Ranks/"
+            }
+          }
+        },
+        "base-7": {
+          "questionId": "504",
+          "title": "Base 7",
+          "titleSlug": "base-7",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732661410,
+              "runtime": "1 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Math/Base 7/"
+            }
+          }
+        },
+        "find-mode-in-binary-search-tree": {
+          "questionId": "501",
+          "title": "Find Mode in Binary Search Tree",
+          "titleSlug": "find-mode-in-binary-search-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732661410,
+              "runtime": "7 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Tree/Find Mode in Binary Search Tree/"
+            }
+          }
+        },
+        "keyboard-row": {
+          "questionId": "500",
+          "title": "Keyboard Row",
+          "titleSlug": "keyboard-row",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732661410,
+              "runtime": "0 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Array/Keyboard Row/"
+            }
+          }
+        },
+        "island-perimeter": {
+          "questionId": "463",
+          "title": "Island Perimeter",
+          "titleSlug": "island-perimeter",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732661411,
+              "runtime": "4 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Array/Island Perimeter/"
+            }
+          }
+        },
+        "next-greater-element-i": {
+          "questionId": "496",
+          "title": "Next Greater Element I",
+          "titleSlug": "next-greater-element-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732661411,
+              "runtime": "5 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/Array/Next Greater Element I/"
+            }
+          }
+        },
+        "construct-the-rectangle": {
+          "questionId": "492",
+          "title": "Construct the Rectangle",
+          "titleSlug": "construct-the-rectangle",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732661411,
+              "runtime": "0 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/Math/Construct the Rectangle/"
+            }
+          }
+        },
+        "number-complement": {
+          "questionId": "476",
+          "title": "Number Complement",
+          "titleSlug": "number-complement",
+          "difficulty": "Easy",
+          "tags": [
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732661411,
+              "runtime": "0 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Bit Manipulation/Number Complement/"
+            }
+          }
+        },
+        "hamming-distance": {
+          "questionId": "461",
+          "title": "Hamming Distance",
+          "titleSlug": "hamming-distance",
+          "difficulty": "Easy",
+          "tags": [
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732661411,
+              "runtime": "0 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/Bit Manipulation/Hamming Distance/"
+            }
+          }
+        },
+        "repeated-substring-pattern": {
+          "questionId": "459",
+          "title": "Repeated Substring Pattern",
+          "titleSlug": "repeated-substring-pattern",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "String Matching"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732661411,
+              "runtime": "33 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/String/Repeated Substring Pattern/"
             }
           }
         }

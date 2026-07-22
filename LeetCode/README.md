@@ -36,6 +36,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 350 | [Intersection of Two Arrays II](./Array/Intersection%20of%20Two%20Arrays%20II/) | Easy |
+| 463 | [Island Perimeter](./Array/Island%20Perimeter/) | Easy |
+| 496 | [Next Greater Element I](./Array/Next%20Greater%20Element%20I/) | Easy |
+| 500 | [Keyboard Row](./Array/Keyboard%20Row/) | Easy |
+| 506 | [Relative Ranks](./Array/Relative%20Ranks/) | Easy |
 | 594 | [Longest Harmonious Subsequence](./Array/Longest%20Harmonious%20Subsequence/) | Easy |
 | 628 | [Maximum Product of Three Numbers](./Array/Maximum%20Product%20of%20Three%20Numbers/) | Easy |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
@@ -58,6 +62,18 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3147 | [Taking Maximum Energy From the Mystic Dungeon](./Array/Taking%20Maximum%20Energy%20From%20the%20Mystic%20Dungeon/) | Medium |
 | 3186 | [Maximum Total Damage With Spell Casting](./Array/Maximum%20Total%20Damage%20With%20Spell%20Casting/) | Medium |
 | 3494 | [Find the Minimum Amount of Time to Brew Potions](./Array/Find%20the%20Minimum%20Amount%20of%20Time%20to%20Brew%20Potions/) | Medium |
+
+</details>
+
+
+### Bit Manipulation
+<details>
+<summary>Click to expand Bit Manipulation problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 461 | [Hamming Distance](./Bit%20Manipulation/Hamming%20Distance/) | Easy |
+| 476 | [Number Complement](./Bit%20Manipulation/Number%20Complement/) | Easy |
 
 </details>
 
@@ -125,6 +141,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
 | 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
 | 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
+| 492 | [Construct the Rectangle](./Math/Construct%20the%20Rectangle/) | Easy |
+| 504 | [Base 7](./Math/Base%207/) | Easy |
 | 507 | [Perfect Number](./Math/Perfect%20Number/) | Easy |
 | 509 | [Fibonacci Number](./Math/Fibonacci%20Number/) | Easy |
 | 728 | [Self Dividing Numbers](./Math/Self%20Dividing%20Numbers/) | Easy |
@@ -154,6 +172,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
 | 8 | [String to Integer (atoi)](./String/String%20to%20Integer%20(atoi)/) | Medium |
 | 38 | [Count and Say](./String/Count%20and%20Say/) | Medium |
+| 459 | [Repeated Substring Pattern](./String/Repeated%20Substring%20Pattern/) | Easy |
 | 482 | [License Key Formatting](./String/License%20Key%20Formatting/) | Easy |
 | 520 | [Detect Capital](./String/Detect%20Capital/) | Easy |
 | 521 | [Longest Uncommon Subsequence I](./String/Longest%20Uncommon%20Subsequence%20I/) | Easy |
@@ -170,6 +189,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 100 | [Same Tree](./Tree/Same%20Tree/) | Easy |
+| 501 | [Find Mode in Binary Search Tree](./Tree/Find%20Mode%20in%20Binary%20Search%20Tree/) | Easy |
 | 543 | [Diameter of Binary Tree](./Tree/Diameter%20of%20Binary%20Tree/) | Easy |
 | 559 | [Maximum Depth of N-ary Tree](./Tree/Maximum%20Depth%20of%20N-ary%20Tree/) | Easy |
 | 617 | [Merge Two Binary Trees](./Tree/Merge%20Two%20Binary%20Trees/) | Easy |
