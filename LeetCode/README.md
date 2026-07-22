@@ -31,6 +31,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
 | 198 | [House Robber](./Array/House%20Robber/) | Medium |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
+| 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
 | 268 | [Missing Number](./Array/Missing%20Number/) | Easy |
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
 | 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
@@ -39,6 +40,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
 | 455 | [Assign Cookies](./Array/Assign%20Cookies/) | Easy |
 | 463 | [Island Perimeter](./Array/Island%20Perimeter/) | Easy |
+| 495 | [Teemo Attacking](./Array/Teemo%20Attacking/) | Easy |
 | 496 | [Next Greater Element I](./Array/Next%20Greater%20Element%20I/) | Easy |
 | 500 | [Keyboard Row](./Array/Keyboard%20Row/) | Easy |
 | 506 | [Relative Ranks](./Array/Relative%20Ranks/) | Easy |
@@ -79,6 +81,18 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Binary Search
+<details>
+<summary>Click to expand Binary Search problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 222 | [Count Complete Tree Nodes](./Binary%20Search/Count%20Complete%20Tree%20Nodes/) | Medium |
+| 278 | [First Bad Version](./Binary%20Search/First%20Bad%20Version/) | Easy |
+
+</details>
+
+
 ### Bit Manipulation
 <details>
 <summary>Click to expand Bit Manipulation problems</summary>
@@ -105,6 +119,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1527 | [Patients With a Condition](./Database/Patients%20With%20a%20Condition/) | Easy |
 | 1683 | [Invalid Tweets](./Database/Invalid%20Tweets/) | Easy |
 | 1757 | [Recyclable and Low Fat Products](./Database/Recyclable%20and%20Low%20Fat%20Products/) | Easy |
+
+</details>
+
+
+### Dynamic Programming
+<details>
+<summary>Click to expand Dynamic Programming problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 338 | [Counting Bits](./Dynamic%20Programming/Counting%20Bits/) | Easy |
 
 </details>
 
@@ -137,6 +162,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 2 | [Add Two Numbers](./Linked%20List/Add%20Two%20Numbers/) | Medium |
+| 24 | [Swap Nodes in Pairs](./Linked%20List/Swap%20Nodes%20in%20Pairs/) | Medium |
 | 83 | [Remove Duplicates from Sorted List](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List/) | Easy |
 | 237 | [Delete Node in a Linked List](./Linked%20List/Delete%20Node%20in%20a%20Linked%20List/) | Medium |
 | 1290 | [Convert Binary Number in a Linked List to Integer](./Linked%20List/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/) | Easy |
@@ -152,9 +178,11 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
 | 9 | [Palindrome Number](./Math/Palindrome%20Number/) | Easy |
+| 29 | [Divide Two Integers](./Math/Divide%20Two%20Integers/) | Medium |
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
 | 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
 | 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
+| 367 | [Valid Perfect Square](./Math/Valid%20Perfect%20Square/) | Easy |
 | 405 | [Convert a Number to Hexadecimal](./Math/Convert%20a%20Number%20to%20Hexadecimal/) | Easy |
 | 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
 | 415 | [Add Strings](./Math/Add%20Strings/) | Easy |
@@ -189,6 +217,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
 | 8 | [String to Integer (atoi)](./String/String%20to%20Integer%20(atoi)/) | Medium |
+| 22 | [Generate Parentheses](./String/Generate%20Parentheses/) | Medium |
 | 38 | [Count and Say](./String/Count%20and%20Say/) | Medium |
 | 434 | [Number of Segments in a String](./String/Number%20of%20Segments%20in%20a%20String/) | Easy |
 | 459 | [Repeated Substring Pattern](./String/Repeated%20Substring%20Pattern/) | Easy |
@@ -228,6 +257,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 5 | [Longest Palindromic Substring](./Two%20Pointers/Longest%20Palindromic%20Substring/) | Medium |
 | 28 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) | Easy |
 | 151 | [Reverse Words in a String](./Two%20Pointers/Reverse%20Words%20in%20a%20String/) | Medium |
+| 392 | [Is Subsequence](./Two%20Pointers/Is%20Subsequence/) | Easy |
 | 541 | [Reverse String II](./Two%20Pointers/Reverse%20String%20II/) | Easy |
 | 557 | [Reverse Words in a String III](./Two%20Pointers/Reverse%20Words%20in%20a%20String%20III/) | Easy |
 | 680 | [Valid Palindrome II](./Two%20Pointers/Valid%20Palindrome%20II/) | Easy |
