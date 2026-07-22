@@ -1,6 +1,6 @@
-# 617Unknown. Unknown Problem
+# 71Unknown. Unknown Problem
 
-[![LeetCode Link](https://img.shields.io/badge/LeetCode-Problem_Link-FFA116?style=flat-square&logo=leetcode)](https://codeforces.com/contest/617/problem/Unknown)
+[![LeetCode Link](https://img.shields.io/badge/LeetCode-Problem_Link-FFA116?style=flat-square&logo=leetcode)](https://codeforces.com/contest/71/problem/Unknown)
 ![Difficulty](https://img.shields.io/badge/Difficulty-Unrated-ef4444?style=flat-square)
 
 ## Problem Statement

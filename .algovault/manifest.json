@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T17:12:40.635Z",
+  "lastUpdated": "2026-07-22T17:13:29.896Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4145,17 +4145,17 @@
             }
           }
         },
-        "617-Unknown": {
-          "questionId": "617Unknown",
+        "71-Unknown": {
+          "questionId": "71Unknown",
           "title": "Unknown Problem",
-          "titleSlug": "617-Unknown",
+          "titleSlug": "71-Unknown",
           "difficulty": "Unrated",
           "tags": [
             "General"
           ],
           "solutions": {
             "unknown": {
-              "syncedAt": 1784740360635,
+              "syncedAt": 1784740409896,
               "runtime": "N/A",
               "memory": "N/A",
               "githubPath": "Codeforces/General/Unknown Problem/"
