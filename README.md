@@ -11,13 +11,13 @@ This repository contains my personal library of highly optimized, strictly teste
 ## 📊 Real-Time Performance Analytics
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/balajikrr2005?theme=tokyonight&show=graph,recent" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/balajikrr2005?theme=tokyonight&show=graph,recent&v=1784746697170" width="100%" />
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=balaji-tp&theme=dark" width="100%" />
+  <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=balaji-tp&theme=dark&v=1784746697170" width="100%" />
 </p>
 
 ## 📂 Repository Structure
