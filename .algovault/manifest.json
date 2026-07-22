@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T15:24:21.605Z",
+  "lastUpdated": "2026-07-22T15:24:28.781Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2183,7 +2183,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732674952,
+              "syncedAt": 1784733868781,
               "runtime": "0 ms",
               "memory": "42.2 MB",
               "githubPath": "LeetCode/Math/Valid Perfect Square/"
@@ -2201,7 +2201,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732674952,
+              "syncedAt": 1784733868781,
               "runtime": "13 ms",
               "memory": "41.9 MB",
               "githubPath": "LeetCode/Binary Search/First Bad Version/"
@@ -2220,7 +2220,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732674952,
+              "syncedAt": 1784733868781,
               "runtime": "0 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Two Pointers/Is Subsequence/"
@@ -2238,7 +2238,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732674952,
+              "syncedAt": 1784733868781,
               "runtime": "3 ms",
               "memory": "48.2 MB",
               "githubPath": "LeetCode/Array/Teemo Attacking/"
@@ -2256,7 +2256,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732674952,
+              "syncedAt": 1784733868781,
               "runtime": "2 ms",
               "memory": "48.8 MB",
               "githubPath": "LeetCode/Dynamic Programming/Counting Bits/"
@@ -2276,7 +2276,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732674952,
+              "syncedAt": 1784733868781,
               "runtime": "0 ms",
               "memory": "49.4 MB",
               "githubPath": "LeetCode/Binary Search/Count Complete Tree Nodes/"
@@ -2295,7 +2295,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732674952,
+              "syncedAt": 1784733868781,
               "runtime": "20 ms",
               "memory": "80.7 MB",
               "githubPath": "LeetCode/Array/Contains Duplicate II/"
@@ -2313,7 +2313,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732674952,
+              "syncedAt": 1784733868781,
               "runtime": "1 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Math/Divide Two Integers/"
@@ -2331,7 +2331,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732674952,
+              "syncedAt": 1784733868781,
               "runtime": "0 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Linked List/Swap Nodes in Pairs/"
@@ -2350,7 +2350,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732674952,
+              "syncedAt": 1784733868781,
               "runtime": "2 ms",
               "memory": "45 MB",
               "githubPath": "LeetCode/String/Generate Parentheses/"
