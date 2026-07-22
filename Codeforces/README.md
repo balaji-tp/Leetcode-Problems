@@ -10,17 +10,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 # 📚 Structured Problem Solving Topics
 
 
-### General
-<details>
-<summary>Click to expand General problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 71Unknown | [Unknown Problem](./General/Unknown%20Problem/) | Unrated |
-| 617Unknown | [Unknown Problem](./General/Unknown%20Problem/) | Unrated |
-
-</details>
-
 
 ### brute force
 <details>
