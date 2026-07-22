@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T14:18:51.224Z",
+  "lastUpdated": "2026-07-22T14:18:58.121Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -462,134 +462,222 @@
             }
           }
         },
-        "adjacent-increasing-subarrays-detection-ii": {
-          "questionId": "3350",
-          "title": "Adjacent Increasing Subarrays Detection II",
-          "titleSlug": "adjacent-increasing-subarrays-detection-ii",
+        "maximum-total-damage-with-spell-casting": {
+          "questionId": "3186",
+          "title": "Maximum Total Damage With Spell Casting",
+          "titleSlug": "maximum-total-damage-with-spell-casting",
           "difficulty": "Medium",
           "tags": [
             "Array",
-            "Binary Search"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729931224,
-              "runtime": "14 ms",
-              "memory": "88.9 MB",
-              "githubPath": "LeetCode/Array/Adjacent Increasing Subarrays Detection II/"
-            }
-          }
-        },
-        "adjacent-increasing-subarrays-detection-i": {
-          "questionId": "3349",
-          "title": "Adjacent Increasing Subarrays Detection I",
-          "titleSlug": "adjacent-increasing-subarrays-detection-i",
-          "difficulty": "Easy",
-          "tags": [
-            "Array"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729931224,
-              "runtime": "1 ms",
-              "memory": "44.5 MB",
-              "githubPath": "LeetCode/Array/Adjacent Increasing Subarrays Detection I/"
-            }
-          }
-        },
-        "jewels-and-stones": {
-          "questionId": "771",
-          "title": "Jewels and Stones",
-          "titleSlug": "jewels-and-stones",
-          "difficulty": "Easy",
-          "tags": [
             "Hash Table",
-            "String"
+            "Two Pointers",
+            "Binary Search",
+            "Dynamic Programming",
+            "Sorting",
+            "Counting"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729931224,
-              "runtime": "1 ms",
-              "memory": "42 MB",
-              "githubPath": "LeetCode/Hash Table/Jewels and Stones/"
+              "syncedAt": 1784729938121,
+              "runtime": "239 ms",
+              "memory": "62.4 MB",
+              "githubPath": "LeetCode/Array/Maximum Total Damage With Spell Casting/"
             }
           }
         },
-        "find-resultant-array-after-removing-anagrams": {
-          "questionId": "2273",
-          "title": "Find Resultant Array After Removing Anagrams",
-          "titleSlug": "find-resultant-array-after-removing-anagrams",
+        "rotate-string": {
+          "questionId": "796",
+          "title": "Rotate String",
+          "titleSlug": "rotate-string",
           "difficulty": "Easy",
+          "tags": [
+            "String",
+            "String Matching"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729938121,
+              "runtime": "0 ms",
+              "memory": "41.6 MB",
+              "githubPath": "LeetCode/String/Rotate String/"
+            }
+          }
+        },
+        "taking-maximum-energy-from-the-mystic-dungeon": {
+          "questionId": "3147",
+          "title": "Taking Maximum Energy From the Mystic Dungeon",
+          "titleSlug": "taking-maximum-energy-from-the-mystic-dungeon",
+          "difficulty": "Medium",
           "tags": [
             "Array",
+            "Dynamic Programming",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729938121,
+              "runtime": "2 ms",
+              "memory": "63.2 MB",
+              "githubPath": "LeetCode/Array/Taking Maximum Energy From the Mystic Dungeon/"
+            }
+          }
+        },
+        "ransom-note": {
+          "questionId": "383",
+          "title": "Ransom Note",
+          "titleSlug": "ransom-note",
+          "difficulty": "Easy",
+          "tags": [
             "Hash Table",
             "String",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729938121,
+              "runtime": "1 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Hash Table/Ransom Note/"
+            }
+          }
+        },
+        "find-the-minimum-amount-of-time-to-brew-potions": {
+          "questionId": "3494",
+          "title": "Find the Minimum Amount of Time to Brew Potions",
+          "titleSlug": "find-the-minimum-amount-of-time-to-brew-potions",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Simulation",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729938121,
+              "runtime": "138 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/Array/Find the Minimum Amount of Time to Brew Potions/"
+            }
+          }
+        },
+        "check-if-number-has-equal-digit-count-and-digit-value": {
+          "questionId": "2283",
+          "title": "Check if Number Has Equal Digit Count and Digit Value",
+          "titleSlug": "check-if-number-has-equal-digit-count-and-digit-value",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729938121,
+              "runtime": "0 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Hash Table/Check if Number Has Equal Digit Count and Digit Value/"
+            }
+          }
+        },
+        "successful-pairs-of-spells-and-potions": {
+          "questionId": "2300",
+          "title": "Successful Pairs of Spells and Potions",
+          "titleSlug": "successful-pairs-of-spells-and-potions",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Binary Search",
             "Sorting"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729931224,
-              "runtime": "3 ms",
-              "memory": "44.8 MB",
-              "githubPath": "LeetCode/Array/Find Resultant Array After Removing Anagrams/"
+              "syncedAt": 1784729938121,
+              "runtime": "48 ms",
+              "memory": "67.4 MB",
+              "githubPath": "LeetCode/Array/Successful Pairs of Spells and Potions/"
             }
           }
         },
-        "check-if-the-sentence-is-pangram": {
-          "questionId": "1832",
-          "title": "Check if the Sentence Is Pangram",
-          "titleSlug": "check-if-the-sentence-is-pangram",
-          "difficulty": "Easy",
+        "avoid-flood-in-the-city": {
+          "questionId": "1488",
+          "title": "Avoid Flood in The City",
+          "titleSlug": "avoid-flood-in-the-city",
+          "difficulty": "Medium",
           "tags": [
+            "Array",
             "Hash Table",
+            "Binary Search",
+            "Greedy",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729938121,
+              "runtime": "64 ms",
+              "memory": "62.6 MB",
+              "githubPath": "LeetCode/Array/Avoid Flood in The City/"
+            }
+          }
+        },
+        "reverse-words-in-a-string": {
+          "questionId": "151",
+          "title": "Reverse Words in a String",
+          "titleSlug": "reverse-words-in-a-string",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
             "String"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729931224,
-              "runtime": "2 ms",
-              "memory": "41.6 MB",
-              "githubPath": "LeetCode/Hash Table/Check if the Sentence Is Pangram/"
+              "syncedAt": 1784729938121,
+              "runtime": "6 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Words in a String/"
             }
           }
         },
-        "find-sum-of-array-product-of-magical-sequences": {
-          "questionId": "3539",
-          "title": "Find Sum of Array Product of Magical Sequences",
-          "titleSlug": "find-sum-of-array-product-of-magical-sequences",
+        "swim-in-rising-water": {
+          "questionId": "778",
+          "title": "Swim in Rising Water",
+          "titleSlug": "swim-in-rising-water",
           "difficulty": "Hard",
           "tags": [
             "Array",
-            "Math",
-            "Dynamic Programming",
-            "Bit Manipulation",
-            "Combinatorics",
-            "Bitmask"
+            "Binary Search",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union-Find",
+            "Heap (Priority Queue)",
+            "Matrix"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729931224,
-              "runtime": "19 ms",
-              "memory": "46.8 MB",
-              "githubPath": "LeetCode/Array/Find Sum of Array Product of Magical Sequences/"
+              "syncedAt": 1784729938121,
+              "runtime": "11 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Array/Swim in Rising Water/"
             }
           }
         },
-        "remove-all-adjacent-duplicates-in-string": {
-          "questionId": "1047",
-          "title": "Remove All Adjacent Duplicates In String",
-          "titleSlug": "remove-all-adjacent-duplicates-in-string",
+        "same-tree": {
+          "questionId": "100",
+          "title": "Same Tree",
+          "titleSlug": "same-tree",
           "difficulty": "Easy",
           "tags": [
-            "String",
-            "Stack"
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729931224,
-              "runtime": "10 ms",
-              "memory": "45.6 MB",
-              "githubPath": "LeetCode/String/Remove All Adjacent Duplicates In String/"
+              "syncedAt": 1784729938121,
+              "runtime": "0 ms",
+              "memory": "40.9 MB",
+              "githubPath": "LeetCode/Tree/Same Tree/"
             }
           }
         }
