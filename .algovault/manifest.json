@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T14:19:38.318Z",
+  "lastUpdated": "2026-07-22T14:19:47.743Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -681,374 +681,191 @@
             }
           }
         },
-        "minimum-depth-of-binary-tree": {
-          "questionId": "111",
-          "title": "Minimum Depth of Binary Tree",
-          "titleSlug": "minimum-depth-of-binary-tree",
+        "plus-one": {
+          "questionId": "66",
+          "title": "Plus One",
+          "titleSlug": "plus-one",
           "difficulty": "Easy",
           "tags": [
-            "Tree",
-            "Depth-First Search",
-            "Breadth-First Search",
-            "Binary Tree"
+            "Array",
+            "Math"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729978318,
+              "syncedAt": 1784729987743,
+              "runtime": "0 ms",
+              "memory": "41.7 MB",
+              "githubPath": "LeetCode/Array/Plus One/"
+            }
+          }
+        },
+        "first-unique-character-in-a-string": {
+          "questionId": "387",
+          "title": "First Unique Character in a String",
+          "titleSlug": "first-unique-character-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Queue",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729987743,
               "runtime": "5 ms",
-              "memory": "63.3 MB",
-              "githubPath": "LeetCode/Tree/Minimum Depth of Binary Tree/"
+              "memory": "45.4 MB",
+              "githubPath": "LeetCode/Hash Table/First Unique Character in a String/"
             }
           }
         },
-        "valid-triangle-number": {
-          "questionId": "611",
-          "title": "Valid Triangle Number",
-          "titleSlug": "valid-triangle-number",
-          "difficulty": "Medium",
-          "tags": [
-            "Array",
-            "Two Pointers",
-            "Binary Search",
-            "Greedy",
-            "Sorting"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729978318,
-              "runtime": "22 ms",
-              "memory": "43.3 MB",
-              "githubPath": "LeetCode/Array/Valid Triangle Number/"
-            }
-          }
-        },
-        "search-insert-position": {
-          "questionId": "35",
-          "title": "Search Insert Position",
-          "titleSlug": "search-insert-position",
+        "add-digits": {
+          "questionId": "258",
+          "title": "Add Digits",
+          "titleSlug": "add-digits",
           "difficulty": "Easy",
           "tags": [
-            "Array",
-            "Binary Search"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729978318,
-              "runtime": "0 ms",
-              "memory": "43.6 MB",
-              "githubPath": "LeetCode/Array/Search Insert Position/"
-            }
-          }
-        },
-        "triangle": {
-          "questionId": "120",
-          "title": "Triangle",
-          "titleSlug": "triangle",
-          "difficulty": "Medium",
-          "tags": [
-            "Array",
-            "Dynamic Programming"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729978318,
-              "runtime": "9 ms",
-              "memory": "45.5 MB",
-              "githubPath": "LeetCode/Array/Triangle/"
-            }
-          }
-        },
-        "third-maximum-number": {
-          "questionId": "414",
-          "title": "Third Maximum Number",
-          "titleSlug": "third-maximum-number",
-          "difficulty": "Easy",
-          "tags": [
-            "Array",
-            "Sorting"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729978318,
-              "runtime": "3 ms",
-              "memory": "43.4 MB",
-              "githubPath": "LeetCode/Array/Third Maximum Number/"
-            }
-          }
-        },
-        "fraction-to-recurring-decimal": {
-          "questionId": "166",
-          "title": "Fraction to Recurring Decimal",
-          "titleSlug": "fraction-to-recurring-decimal",
-          "difficulty": "Medium",
-          "tags": [
-            "Hash Table",
             "Math",
-            "String"
+            "Simulation",
+            "Number Theory"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729978318,
+              "syncedAt": 1784729987743,
               "runtime": "1 ms",
-              "memory": "41.4 MB",
-              "githubPath": "LeetCode/Hash Table/Fraction to Recurring Decimal/"
-            }
-          }
-        },
-        "maximum-count-of-positive-integer-and-negative-integer": {
-          "questionId": "2529",
-          "title": "Maximum Count of Positive Integer and Negative Integer",
-          "titleSlug": "maximum-count-of-positive-integer-and-negative-integer",
-          "difficulty": "Easy",
-          "tags": [
-            "Array",
-            "Binary Search",
-            "Counting"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729978318,
-              "runtime": "0 ms",
-              "memory": "44.8 MB",
-              "githubPath": "LeetCode/Array/Maximum Count of Positive Integer and Negative Integer/"
-            }
-          }
-        },
-        "product-of-array-except-self": {
-          "questionId": "238",
-          "title": "Product of Array Except Self",
-          "titleSlug": "product-of-array-except-self",
-          "difficulty": "Medium",
-          "tags": [
-            "Array",
-            "Prefix Sum"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729978318,
-              "runtime": "2 ms",
-              "memory": "55.6 MB",
-              "githubPath": "LeetCode/Array/Product of Array Except Self/"
-            }
-          }
-        },
-        "count-elements-with-maximum-frequency": {
-          "questionId": "3005",
-          "title": "Count Elements With Maximum Frequency",
-          "titleSlug": "count-elements-with-maximum-frequency",
-          "difficulty": "Easy",
-          "tags": [
-            "Array",
-            "Hash Table",
-            "Counting"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729978318,
-              "runtime": "2 ms",
-              "memory": "42.6 MB",
-              "githubPath": "LeetCode/Array/Count Elements With Maximum Frequency/"
-            }
-          }
-        },
-        "power-of-two": {
-          "questionId": "231",
-          "title": "Power of Two",
-          "titleSlug": "power-of-two",
-          "difficulty": "Easy",
-          "tags": [
-            "Math",
-            "Bit Manipulation",
-            "Recursion"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729978318,
-              "runtime": "0 ms",
               "memory": "40.8 MB",
-              "githubPath": "LeetCode/Math/Power of Two/"
+              "githubPath": "LeetCode/Math/Add Digits/"
             }
           }
         },
-        "monotonic-array": {
-          "questionId": "896",
-          "title": "Monotonic Array",
-          "titleSlug": "monotonic-array",
-          "difficulty": "Easy",
-          "tags": [
-            "Array"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729978318,
-              "runtime": "3 ms",
-              "memory": "59.7 MB",
-              "githubPath": "LeetCode/Array/Monotonic Array/"
-            }
-          }
-        },
-        "binary-search": {
-          "questionId": "704",
-          "title": "Binary Search",
-          "titleSlug": "binary-search",
-          "difficulty": "Easy",
-          "tags": [
-            "Array",
-            "Binary Search"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729978318,
-              "runtime": "0 ms",
-              "memory": "46.1 MB",
-              "githubPath": "LeetCode/Array/Binary Search/"
-            }
-          }
-        },
-        "excel-sheet-column-number": {
-          "questionId": "171",
-          "title": "Excel Sheet Column Number",
-          "titleSlug": "excel-sheet-column-number",
+        "number-of-steps-to-reduce-a-number-to-zero": {
+          "questionId": "1342",
+          "title": "Number of Steps to Reduce a Number to Zero",
+          "titleSlug": "number-of-steps-to-reduce-a-number-to-zero",
           "difficulty": "Easy",
           "tags": [
             "Math",
-            "String"
+            "Bit Manipulation"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729978318,
-              "runtime": "1 ms",
-              "memory": "42.2 MB",
-              "githubPath": "LeetCode/Math/Excel Sheet Column Number/"
-            }
-          }
-        },
-        "reverse-string": {
-          "questionId": "344",
-          "title": "Reverse String",
-          "titleSlug": "reverse-string",
-          "difficulty": "Easy",
-          "tags": [
-            "Two Pointers",
-            "String"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729978318,
+              "syncedAt": 1784729987743,
               "runtime": "0 ms",
-              "memory": "49.3 MB",
-              "githubPath": "LeetCode/Two Pointers/Reverse String/"
+              "memory": "40.5 MB",
+              "githubPath": "LeetCode/Math/Number of Steps to Reduce a Number to Zero/"
             }
           }
         },
-        "merge-sorted-array": {
-          "questionId": "88",
-          "title": "Merge Sorted Array",
-          "titleSlug": "merge-sorted-array",
+        "single-number": {
+          "questionId": "136",
+          "title": "Single Number",
+          "titleSlug": "single-number",
           "difficulty": "Easy",
           "tags": [
             "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729987743,
+              "runtime": "1 ms",
+              "memory": "46.2 MB",
+              "githubPath": "LeetCode/Array/Single Number/"
+            }
+          }
+        },
+        "intersection-of-two-arrays-ii": {
+          "questionId": "350",
+          "title": "Intersection of Two Arrays II",
+          "titleSlug": "intersection-of-two-arrays-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
             "Two Pointers",
+            "Binary Search",
             "Sorting"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729978318,
-              "runtime": "0 ms",
-              "memory": "42.5 MB",
-              "githubPath": "LeetCode/Array/Merge Sorted Array/"
+              "syncedAt": 1784729987743,
+              "runtime": "3 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Array/Intersection of Two Arrays II/"
             }
           }
         },
-        "power-of-three": {
-          "questionId": "326",
-          "title": "Power of Three",
-          "titleSlug": "power-of-three",
+        "majority-element": {
+          "questionId": "169",
+          "title": "Majority Element",
+          "titleSlug": "majority-element",
           "difficulty": "Easy",
           "tags": [
-            "Math",
-            "Recursion"
+            "Array",
+            "Hash Table",
+            "Divide and Conquer",
+            "Sorting",
+            "Counting"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729978318,
-              "runtime": "8 ms",
-              "memory": "44.3 MB",
-              "githubPath": "LeetCode/Math/Power of Three/"
+              "syncedAt": 1784729987743,
+              "runtime": "1 ms",
+              "memory": "53.3 MB",
+              "githubPath": "LeetCode/Array/Majority Element/"
             }
           }
         },
-        "ugly-number": {
-          "questionId": "263",
-          "title": "Ugly Number",
-          "titleSlug": "ugly-number",
+        "remove-duplicates-from-sorted-array": {
+          "questionId": "26",
+          "title": "Remove Duplicates from Sorted Array",
+          "titleSlug": "remove-duplicates-from-sorted-array",
           "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729987743,
+              "runtime": "1 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array/"
+            }
+          }
+        },
+        "move-zeroes": {
+          "questionId": "283",
+          "title": "Move Zeroes",
+          "titleSlug": "move-zeroes",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729987743,
+              "runtime": "1 ms",
+              "memory": "45.8 MB",
+              "githubPath": "LeetCode/Array/Move Zeroes/"
+            }
+          }
+        },
+        "reverse-integer": {
+          "questionId": "7",
+          "title": "Reverse Integer",
+          "titleSlug": "reverse-integer",
+          "difficulty": "Medium",
           "tags": [
             "Math"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729978318,
+              "syncedAt": 1784729987743,
               "runtime": "1 ms",
-              "memory": "41 MB",
-              "githubPath": "LeetCode/Math/Ugly Number/"
-            }
-          }
-        },
-        "implement-stack-using-queues": {
-          "questionId": "225",
-          "title": "Implement Stack using Queues",
-          "titleSlug": "implement-stack-using-queues",
-          "difficulty": "Easy",
-          "tags": [
-            "Stack",
-            "Design",
-            "Queue"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729978318,
-              "runtime": "0 ms",
-              "memory": "41.3 MB",
-              "githubPath": "LeetCode/Stack/Implement Stack using Queues/"
-            }
-          }
-        },
-        "palindrome-linked-list": {
-          "questionId": "234",
-          "title": "Palindrome Linked List",
-          "titleSlug": "palindrome-linked-list",
-          "difficulty": "Easy",
-          "tags": [
-            "Linked List",
-            "Two Pointers",
-            "Stack",
-            "Recursion"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729978318,
-              "runtime": "4 ms",
-              "memory": "59.8 MB",
-              "githubPath": "LeetCode/Linked List/Palindrome Linked List/"
-            }
-          }
-        },
-        "isomorphic-strings": {
-          "questionId": "205",
-          "title": "Isomorphic Strings",
-          "titleSlug": "isomorphic-strings",
-          "difficulty": "Easy",
-          "tags": [
-            "Hash Table",
-            "String"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729978318,
-              "runtime": "15 ms",
-              "memory": "42.5 MB",
-              "githubPath": "LeetCode/Hash Table/Isomorphic Strings/"
+              "memory": "40.9 MB",
+              "githubPath": "LeetCode/Math/Reverse Integer/"
             }
           }
         }
