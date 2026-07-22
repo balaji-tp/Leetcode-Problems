@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T15:04:34.952Z",
+  "lastUpdated": "2026-07-22T15:04:41.283Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -288,7 +288,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729899473,
+              "syncedAt": 1784732681282,
               "runtime": "22 ms",
               "memory": "45.6 MB",
               "githubPath": "LeetCode/Array/4Sum/"
@@ -307,7 +307,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729899473,
+              "syncedAt": 1784732681282,
               "runtime": "12 ms",
               "memory": "45.6 MB",
               "githubPath": "LeetCode/Array/3Sum Closest/"
@@ -326,7 +326,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729899473,
+              "syncedAt": 1784732681282,
               "runtime": "3 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/Hash Table/Letter Combinations of a Phone Number/"
@@ -345,7 +345,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729899473,
+              "syncedAt": 1784732681282,
               "runtime": "28 ms",
               "memory": "59.1 MB",
               "githubPath": "LeetCode/Array/3Sum/"
@@ -364,7 +364,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729899473,
+              "syncedAt": 1784732681282,
               "runtime": "4 ms",
               "memory": "46.4 MB",
               "githubPath": "LeetCode/Hash Table/Integer to Roman/"
@@ -381,7 +381,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729899473,
+              "syncedAt": 1784732681282,
               "runtime": "1 ms",
               "memory": "43.7 MB",
               "githubPath": "LeetCode/String/String to Integer (atoi)/"
@@ -398,7 +398,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729899473,
+              "syncedAt": 1784732681282,
               "runtime": "3 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/String/Zigzag Conversion/"
@@ -417,7 +417,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729899473,
+              "syncedAt": 1784732681282,
               "runtime": "1682 ms",
               "memory": "43.5 MB",
               "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
@@ -436,7 +436,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729899473,
+              "syncedAt": 1784732681283,
               "runtime": "106 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
@@ -455,7 +455,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729899473,
+              "syncedAt": 1784732681283,
               "runtime": "1 ms",
               "memory": "46.4 MB",
               "githubPath": "LeetCode/Linked List/Add Two Numbers/"
