@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T15:24:59.343Z",
+  "lastUpdated": "2026-07-22T15:25:04.724Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3108,7 +3108,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732715860,
+              "syncedAt": 1784733904724,
               "runtime": "14 ms",
               "memory": "88.9 MB",
               "githubPath": "LeetCode/Array/Adjacent Increasing Subarrays Detection II/"
@@ -3125,7 +3125,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732715860,
+              "syncedAt": 1784733904724,
               "runtime": "1 ms",
               "memory": "44.5 MB",
               "githubPath": "LeetCode/Array/Adjacent Increasing Subarrays Detection I/"
@@ -3143,7 +3143,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732715860,
+              "syncedAt": 1784733904724,
               "runtime": "1 ms",
               "memory": "42 MB",
               "githubPath": "LeetCode/Hash Table/Jewels and Stones/"
@@ -3163,7 +3163,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732715860,
+              "syncedAt": 1784733904724,
               "runtime": "3 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/Array/Find Resultant Array After Removing Anagrams/"
@@ -3181,7 +3181,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732715860,
+              "syncedAt": 1784733904724,
               "runtime": "2 ms",
               "memory": "41.6 MB",
               "githubPath": "LeetCode/Hash Table/Check if the Sentence Is Pangram/"
@@ -3203,7 +3203,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732715860,
+              "syncedAt": 1784733904724,
               "runtime": "19 ms",
               "memory": "46.8 MB",
               "githubPath": "LeetCode/Array/Find Sum of Array Product of Magical Sequences/"
@@ -3221,7 +3221,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732715860,
+              "syncedAt": 1784733904724,
               "runtime": "10 ms",
               "memory": "45.6 MB",
               "githubPath": "LeetCode/String/Remove All Adjacent Duplicates In String/"
