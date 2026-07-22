@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T14:17:51.016Z",
+  "lastUpdated": "2026-07-22T14:17:57.773Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -276,173 +276,188 @@
             }
           }
         },
-        "set-mismatch": {
-          "questionId": "645",
-          "title": "Set Mismatch",
-          "titleSlug": "set-mismatch",
+        "relative-ranks": {
+          "questionId": "506",
+          "title": "Relative Ranks",
+          "titleSlug": "relative-ranks",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sorting",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729877773,
+              "runtime": "10 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/Array/Relative Ranks/"
+            }
+          }
+        },
+        "base-7": {
+          "questionId": "504",
+          "title": "Base 7",
+          "titleSlug": "base-7",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729877773,
+              "runtime": "1 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Math/Base 7/"
+            }
+          }
+        },
+        "find-mode-in-binary-search-tree": {
+          "questionId": "501",
+          "title": "Find Mode in Binary Search Tree",
+          "titleSlug": "find-mode-in-binary-search-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729877773,
+              "runtime": "7 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Tree/Find Mode in Binary Search Tree/"
+            }
+          }
+        },
+        "keyboard-row": {
+          "questionId": "500",
+          "title": "Keyboard Row",
+          "titleSlug": "keyboard-row",
           "difficulty": "Easy",
           "tags": [
             "Array",
             "Hash Table",
-            "Bit Manipulation",
-            "Sorting"
+            "String"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729871016,
-              "runtime": "2 ms",
-              "memory": "47.7 MB",
-              "githubPath": "LeetCode/Array/Set Mismatch/"
+              "syncedAt": 1784729877773,
+              "runtime": "0 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Array/Keyboard Row/"
             }
           }
         },
-        "maximum-product-of-three-numbers": {
-          "questionId": "628",
-          "title": "Maximum Product of Three Numbers",
-          "titleSlug": "maximum-product-of-three-numbers",
+        "island-perimeter": {
+          "questionId": "463",
+          "title": "Island Perimeter",
+          "titleSlug": "island-perimeter",
           "difficulty": "Easy",
           "tags": [
             "Array",
-            "Math",
-            "Sorting"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729871016,
-              "runtime": "15 ms",
-              "memory": "48.3 MB",
-              "githubPath": "LeetCode/Array/Maximum Product of Three Numbers/"
-            }
-          }
-        },
-        "average-of-levels-in-binary-tree": {
-          "questionId": "637",
-          "title": "Average of Levels in Binary Tree",
-          "titleSlug": "average-of-levels-in-binary-tree",
-          "difficulty": "Easy",
-          "tags": [
-            "Tree",
             "Depth-First Search",
             "Breadth-First Search",
-            "Binary Tree"
+            "Matrix"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729871016,
-              "runtime": "2 ms",
-              "memory": "48.5 MB",
-              "githubPath": "LeetCode/Tree/Average of Levels in Binary Tree/"
+              "syncedAt": 1784729877773,
+              "runtime": "4 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Array/Island Perimeter/"
             }
           }
         },
-        "merge-two-binary-trees": {
-          "questionId": "617",
-          "title": "Merge Two Binary Trees",
-          "titleSlug": "merge-two-binary-trees",
+        "next-greater-element-i": {
+          "questionId": "496",
+          "title": "Next Greater Element I",
+          "titleSlug": "next-greater-element-i",
           "difficulty": "Easy",
           "tags": [
-            "Tree",
-            "Depth-First Search",
-            "Breadth-First Search",
-            "Binary Tree"
+            "Array",
+            "Hash Table",
+            "Stack",
+            "Monotonic Stack"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729871016,
-              "runtime": "0 ms",
-              "memory": "46.6 MB",
-              "githubPath": "LeetCode/Tree/Merge Two Binary Trees/"
+              "syncedAt": 1784729877773,
+              "runtime": "5 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/Array/Next Greater Element I/"
             }
           }
         },
-        "student-attendance-record-i": {
-          "questionId": "551",
-          "title": "Student Attendance Record I",
-          "titleSlug": "student-attendance-record-i",
-          "difficulty": "Easy",
-          "tags": [
-            "String"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729871016,
-              "runtime": "0 ms",
-              "memory": "42.9 MB",
-              "githubPath": "LeetCode/String/Student Attendance Record I/"
-            }
-          }
-        },
-        "diameter-of-binary-tree": {
-          "questionId": "543",
-          "title": "Diameter of Binary Tree",
-          "titleSlug": "diameter-of-binary-tree",
-          "difficulty": "Easy",
-          "tags": [
-            "Tree",
-            "Depth-First Search",
-            "Binary Tree"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729871016,
-              "runtime": "0 ms",
-              "memory": "46.9 MB",
-              "githubPath": "LeetCode/Tree/Diameter of Binary Tree/"
-            }
-          }
-        },
-        "reverse-string-ii": {
-          "questionId": "541",
-          "title": "Reverse String II",
-          "titleSlug": "reverse-string-ii",
-          "difficulty": "Easy",
-          "tags": [
-            "Two Pointers",
-            "String"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729871016,
-              "runtime": "0 ms",
-              "memory": "45 MB",
-              "githubPath": "LeetCode/Two Pointers/Reverse String II/"
-            }
-          }
-        },
-        "fibonacci-number": {
-          "questionId": "509",
-          "title": "Fibonacci Number",
-          "titleSlug": "fibonacci-number",
-          "difficulty": "Easy",
-          "tags": [
-            "Math",
-            "Dynamic Programming",
-            "Recursion",
-            "Memoization"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729871016,
-              "runtime": "0 ms",
-              "memory": "42 MB",
-              "githubPath": "LeetCode/Math/Fibonacci Number/"
-            }
-          }
-        },
-        "perfect-number": {
-          "questionId": "507",
-          "title": "Perfect Number",
-          "titleSlug": "perfect-number",
+        "construct-the-rectangle": {
+          "questionId": "492",
+          "title": "Construct the Rectangle",
+          "titleSlug": "construct-the-rectangle",
           "difficulty": "Easy",
           "tags": [
             "Math"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729871016,
-              "runtime": "2077 ms",
-              "memory": "42.1 MB",
-              "githubPath": "LeetCode/Math/Perfect Number/"
+              "syncedAt": 1784729877773,
+              "runtime": "0 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/Math/Construct the Rectangle/"
+            }
+          }
+        },
+        "number-complement": {
+          "questionId": "476",
+          "title": "Number Complement",
+          "titleSlug": "number-complement",
+          "difficulty": "Easy",
+          "tags": [
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729877773,
+              "runtime": "0 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Bit Manipulation/Number Complement/"
+            }
+          }
+        },
+        "hamming-distance": {
+          "questionId": "461",
+          "title": "Hamming Distance",
+          "titleSlug": "hamming-distance",
+          "difficulty": "Easy",
+          "tags": [
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729877773,
+              "runtime": "0 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/Bit Manipulation/Hamming Distance/"
+            }
+          }
+        },
+        "repeated-substring-pattern": {
+          "questionId": "459",
+          "title": "Repeated Substring Pattern",
+          "titleSlug": "repeated-substring-pattern",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "String Matching"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729877773,
+              "runtime": "33 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/String/Repeated Substring Pattern/"
             }
           }
         }

@@ -18,11 +18,25 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
 | 198 | [House Robber](./Array/House%20Robber/) | Medium |
-| 628 | [Maximum Product of Three Numbers](./Array/Maximum%20Product%20of%20Three%20Numbers/) | Easy |
-| 645 | [Set Mismatch](./Array/Set%20Mismatch/) | Easy |
+| 463 | [Island Perimeter](./Array/Island%20Perimeter/) | Easy |
+| 496 | [Next Greater Element I](./Array/Next%20Greater%20Element%20I/) | Easy |
+| 500 | [Keyboard Row](./Array/Keyboard%20Row/) | Easy |
+| 506 | [Relative Ranks](./Array/Relative%20Ranks/) | Easy |
 | 922 | [Sort Array By Parity II](./Array/Sort%20Array%20By%20Parity%20II/) | Easy |
 | 996 | [Number of Squareful Arrays](./Array/Number%20of%20Squareful%20Arrays/) | Hard |
 | 2161 | [Partition Array According to Given Pivot](./Array/Partition%20Array%20According%20to%20Given%20Pivot/) | Medium |
+
+</details>
+
+
+### Bit Manipulation
+<details>
+<summary>Click to expand Bit Manipulation problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 461 | [Hamming Distance](./Bit%20Manipulation/Hamming%20Distance/) | Easy |
+| 476 | [Number Complement](./Bit%20Manipulation/Number%20Complement/) | Easy |
 
 </details>
 
@@ -63,8 +77,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
-| 507 | [Perfect Number](./Math/Perfect%20Number/) | Easy |
-| 509 | [Fibonacci Number](./Math/Fibonacci%20Number/) | Easy |
+| 492 | [Construct the Rectangle](./Math/Construct%20the%20Rectangle/) | Easy |
+| 504 | [Base 7](./Math/Base%207/) | Easy |
 
 </details>
 
@@ -75,7 +89,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 551 | [Student Attendance Record I](./String/Student%20Attendance%20Record%20I/) | Easy |
+| 459 | [Repeated Substring Pattern](./String/Repeated%20Substring%20Pattern/) | Easy |
 
 </details>
 
@@ -86,20 +100,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 543 | [Diameter of Binary Tree](./Tree/Diameter%20of%20Binary%20Tree/) | Easy |
-| 617 | [Merge Two Binary Trees](./Tree/Merge%20Two%20Binary%20Trees/) | Easy |
-| 637 | [Average of Levels in Binary Tree](./Tree/Average%20of%20Levels%20in%20Binary%20Tree/) | Easy |
-
-</details>
-
-
-### Two Pointers
-<details>
-<summary>Click to expand Two Pointers problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 541 | [Reverse String II](./Two%20Pointers/Reverse%20String%20II/) | Easy |
+| 501 | [Find Mode in Binary Search Tree](./Tree/Find%20Mode%20in%20Binary%20Search%20Tree/) | Easy |
 
 </details>
 
