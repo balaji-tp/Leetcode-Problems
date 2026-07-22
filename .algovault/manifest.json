@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T15:25:42.869Z",
+  "lastUpdated": "2026-07-22T15:27:48.868Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1098,6 +1098,12 @@
               "syncedAt": 1784733822845,
               "runtime": "38 ms",
               "memory": "46.7 MB",
+              "githubPath": "LeetCode/Array/Two Sum/"
+            },
+            "python3": {
+              "syncedAt": 1784734068868,
+              "runtime": "1478 ms",
+              "memory": "19.7 MB",
               "githubPath": "LeetCode/Array/Two Sum/"
             }
           }
