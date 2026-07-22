@@ -1,3 +1,0 @@
-x = int(input())
-res = (x + 4) // 5
-print(res)
