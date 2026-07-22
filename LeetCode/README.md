@@ -16,11 +16,15 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
 | 15 | [3Sum](./Array/3Sum/) | Medium |
 | 16 | [3Sum Closest](./Array/3Sum%20Closest/) | Medium |
 | 18 | [4Sum](./Array/4Sum/) | Medium |
+| 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
 | 198 | [House Robber](./Array/House%20Robber/) | Medium |
+| 407 | [Trapping Rain Water II](./Array/Trapping%20Rain%20Water%20II/) | Hard |
+| 417 | [Pacific Atlantic Water Flow](./Array/Pacific%20Atlantic%20Water%20Flow/) | Medium |
 | 778 | [Swim in Rising Water](./Array/Swim%20in%20Rising%20Water/) | Hard |
 | 922 | [Sort Array By Parity II](./Array/Sort%20Array%20By%20Parity%20II/) | Easy |
 | 996 | [Number of Squareful Arrays](./Array/Number%20of%20Squareful%20Arrays/) | Hard |
@@ -75,6 +79,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 2 | [Add Two Numbers](./Linked%20List/Add%20Two%20Numbers/) | Medium |
+| 21 | [Merge Two Sorted Lists](./Linked%20List/Merge%20Two%20Sorted%20Lists/) | Easy |
 
 </details>
 
@@ -90,6 +95,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Stack
+<details>
+<summary>Click to expand Stack problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 94 | [Binary Tree Inorder Traversal](./Stack/Binary%20Tree%20Inorder%20Traversal/) | Easy |
+
+</details>
+
+
 ### String
 <details>
 <summary>Click to expand String problems</summary>
@@ -98,6 +114,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
 | 8 | [String to Integer (atoi)](./String/String%20to%20Integer%20(atoi)/) | Medium |
+| 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 | 796 | [Rotate String](./String/Rotate%20String/) | Easy |
 
 </details>
