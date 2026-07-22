@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T15:04:54.604Z",
+  "lastUpdated": "2026-07-22T15:05:03.615Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2727,6 +2727,180 @@
               "runtime": "13 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Array/Number of Laser Beams in a Bank/"
+            }
+          }
+        },
+        "simple-bank-system": {
+          "questionId": "2043",
+          "title": "Simple Bank System",
+          "titleSlug": "simple-bank-system",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Design",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732703615,
+              "runtime": "100 ms",
+              "memory": "101.9 MB",
+              "githubPath": "LeetCode/Array/Simple Bank System/"
+            }
+          }
+        },
+        "calculate-money-in-leetcode-bank": {
+          "questionId": "1716",
+          "title": "Calculate Money in Leetcode Bank",
+          "titleSlug": "calculate-money-in-leetcode-bank",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732703615,
+              "runtime": "0 ms",
+              "memory": "40.6 MB",
+              "githubPath": "LeetCode/Math/Calculate Money in Leetcode Bank/"
+            }
+          }
+        },
+        "summary-ranges": {
+          "questionId": "228",
+          "title": "Summary Ranges",
+          "titleSlug": "summary-ranges",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732703615,
+              "runtime": "5 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/Array/Summary Ranges/"
+            }
+          }
+        },
+        "excel-sheet-column-title": {
+          "questionId": "168",
+          "title": "Excel Sheet Column Title",
+          "titleSlug": "excel-sheet-column-title",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732703615,
+              "runtime": "0 ms",
+              "memory": "40.7 MB",
+              "githubPath": "LeetCode/Math/Excel Sheet Column Title/"
+            }
+          }
+        },
+        "next-greater-numerically-balanced-number": {
+          "questionId": "2048",
+          "title": "Next Greater Numerically Balanced Number",
+          "titleSlug": "next-greater-numerically-balanced-number",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "Backtracking",
+            "Counting",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732703615,
+              "runtime": "2 ms",
+              "memory": "40.8 MB",
+              "githubPath": "LeetCode/Hash Table/Next Greater Numerically Balanced Number/"
+            }
+          }
+        },
+        "pascals-triangle-ii": {
+          "questionId": "119",
+          "title": "Pascal's Triangle II",
+          "titleSlug": "pascals-triangle-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732703615,
+              "runtime": "1 ms",
+              "memory": "41.4 MB",
+              "githubPath": "LeetCode/Array/Pascal's Triangle II/"
+            }
+          }
+        },
+        "check-if-digits-are-equal-in-string-after-operations-i": {
+          "questionId": "3461",
+          "title": "Check If Digits Are Equal in String After Operations I",
+          "titleSlug": "check-if-digits-are-equal-in-string-after-operations-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Simulation",
+            "Combinatorics",
+            "Number Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732703615,
+              "runtime": "1 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Math/Check If Digits Are Equal in String After Operations I/"
+            }
+          }
+        },
+        "maximum-frequency-of-an-element-after-performing-operations-ii": {
+          "questionId": "3347",
+          "title": "Maximum Frequency of an Element After Performing Operations II",
+          "titleSlug": "maximum-frequency-of-an-element-after-performing-operations-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Sorting",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732703615,
+              "runtime": "505 ms",
+              "memory": "57 MB",
+              "githubPath": "LeetCode/Array/Maximum Frequency of an Element After Performing Operations II/"
+            }
+          }
+        },
+        "maximum-frequency-of-an-element-after-performing-operations-i": {
+          "questionId": "3346",
+          "title": "Maximum Frequency of an Element After Performing Operations I",
+          "titleSlug": "maximum-frequency-of-an-element-after-performing-operations-i",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Sorting",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732703615,
+              "runtime": "13 ms",
+              "memory": "56.6 MB",
+              "githubPath": "LeetCode/Array/Maximum Frequency of an Element After Performing Operations I/"
             }
           }
         }

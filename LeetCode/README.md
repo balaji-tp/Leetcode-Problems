@@ -27,11 +27,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
 | 66 | [Plus One](./Array/Plus%20One/) | Easy |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
+| 119 | [Pascal's Triangle II](./Array/Pascal's%20Triangle%20II/) | Easy |
 | 136 | [Single Number](./Array/Single%20Number/) | Easy |
 | 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
 | 198 | [House Robber](./Array/House%20Robber/) | Medium |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
+| 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
 | 268 | [Missing Number](./Array/Missing%20Number/) | Easy |
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
 | 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
@@ -61,6 +63,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](./Array/Minimum%20Number%20of%20Increments%20on%20Subarrays%20to%20Form%20a%20Target%20Array/) | Hard |
 | 1578 | [Minimum Time to Make Rope Colorful](./Array/Minimum%20Time%20to%20Make%20Rope%20Colorful/) | Medium |
 | 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
+| 2043 | [Simple Bank System](./Array/Simple%20Bank%20System/) | Medium |
 | 2125 | [Number of Laser Beams in a Bank](./Array/Number%20of%20Laser%20Beams%20in%20a%20Bank/) | Medium |
 | 2150 | [Find All Lonely Numbers in the Array](./Array/Find%20All%20Lonely%20Numbers%20in%20the%20Array/) | Medium |
 | 2161 | [Partition Array According to Given Pivot](./Array/Partition%20Array%20According%20to%20Given%20Pivot/) | Medium |
@@ -73,6 +76,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3289 | [The Two Sneaky Numbers of Digitville](./Array/The%20Two%20Sneaky%20Numbers%20of%20Digitville/) | Easy |
 | 3318 | [Find X-Sum of All K-Long Subarrays I](./Array/Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20I/) | Easy |
 | 3321 | [Find X-Sum of All K-Long Subarrays II](./Array/Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20II/) | Hard |
+| 3346 | [Maximum Frequency of an Element After Performing Operations I](./Array/Maximum%20Frequency%20of%20an%20Element%20After%20Performing%20Operations%20I/) | Medium |
+| 3347 | [Maximum Frequency of an Element After Performing Operations II](./Array/Maximum%20Frequency%20of%20an%20Element%20After%20Performing%20Operations%20II/) | Hard |
 | 3354 | [Make Array Elements Equal to Zero](./Array/Make%20Array%20Elements%20Equal%20to%20Zero/) | Easy |
 | 3494 | [Find the Minimum Amount of Time to Brew Potions](./Array/Find%20the%20Minimum%20Amount%20of%20Time%20to%20Brew%20Potions/) | Medium |
 | 3607 | [Power Grid Maintenance](./Array/Power%20Grid%20Maintenance/) | Medium |
@@ -164,6 +169,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 389 | [Find the Difference](./Hash%20Table/Find%20the%20Difference/) | Easy |
 | 409 | [Longest Palindrome](./Hash%20Table/Longest%20Palindrome/) | Easy |
 | 653 | [Two Sum IV - Input is a BST](./Hash%20Table/Two%20Sum%20IV%20-%20Input%20is%20a%20BST/) | Easy |
+| 2048 | [Next Greater Numerically Balanced Number](./Hash%20Table/Next%20Greater%20Numerically%20Balanced%20Number/) | Medium |
 | 2283 | [Check if Number Has Equal Digit Count and Digit Value](./Hash%20Table/Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/) | Easy |
 
 </details>
@@ -196,6 +202,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 29 | [Divide Two Integers](./Math/Divide%20Two%20Integers/) | Medium |
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
 | 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
+| 168 | [Excel Sheet Column Title](./Math/Excel%20Sheet%20Column%20Title/) | Easy |
 | 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
 | 367 | [Valid Perfect Square](./Math/Valid%20Perfect%20Square/) | Easy |
 | 405 | [Convert a Number to Hexadecimal](./Math/Convert%20a%20Number%20to%20Hexadecimal/) | Easy |
@@ -209,7 +216,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 728 | [Self Dividing Numbers](./Math/Self%20Dividing%20Numbers/) | Easy |
 | 762 | [Prime Number of Set Bits in Binary Representation](./Math/Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/) | Easy |
 | 1342 | [Number of Steps to Reduce a Number to Zero](./Math/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/) | Easy |
+| 1716 | [Calculate Money in Leetcode Bank](./Math/Calculate%20Money%20in%20Leetcode%20Bank/) | Easy |
 | 3370 | [Smallest Number With All Set Bits](./Math/Smallest%20Number%20With%20All%20Set%20Bits/) | Easy |
+| 3461 | [Check If Digits Are Equal in String After Operations I](./Math/Check%20If%20Digits%20Are%20Equal%20in%20String%20After%20Operations%20I/) | Easy |
 
 </details>
 
