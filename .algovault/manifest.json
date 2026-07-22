@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T14:18:44.762Z",
+  "lastUpdated": "2026-07-22T14:18:51.224Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -462,196 +462,134 @@
             }
           }
         },
-        "final-value-of-variable-after-performing-operations": {
-          "questionId": "2011",
-          "title": "Final Value of Variable After Performing Operations",
-          "titleSlug": "final-value-of-variable-after-performing-operations",
-          "difficulty": "Easy",
+        "adjacent-increasing-subarrays-detection-ii": {
+          "questionId": "3350",
+          "title": "Adjacent Increasing Subarrays Detection II",
+          "titleSlug": "adjacent-increasing-subarrays-detection-ii",
+          "difficulty": "Medium",
           "tags": [
             "Array",
-            "String",
-            "Simulation"
+            "Binary Search"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729924762,
-              "runtime": "1 ms",
-              "memory": "42.4 MB",
-              "githubPath": "LeetCode/Array/Final Value of Variable After Performing Operations/"
+              "syncedAt": 1784729931224,
+              "runtime": "14 ms",
+              "memory": "88.9 MB",
+              "githubPath": "LeetCode/Array/Adjacent Increasing Subarrays Detection II/"
             }
           }
         },
-        "valid-palindrome": {
-          "questionId": "125",
-          "title": "Valid Palindrome",
-          "titleSlug": "valid-palindrome",
+        "adjacent-increasing-subarrays-detection-i": {
+          "questionId": "3349",
+          "title": "Adjacent Increasing Subarrays Detection I",
+          "titleSlug": "adjacent-increasing-subarrays-detection-i",
           "difficulty": "Easy",
           "tags": [
-            "Two Pointers",
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729931224,
+              "runtime": "1 ms",
+              "memory": "44.5 MB",
+              "githubPath": "LeetCode/Array/Adjacent Increasing Subarrays Detection I/"
+            }
+          }
+        },
+        "jewels-and-stones": {
+          "questionId": "771",
+          "title": "Jewels and Stones",
+          "titleSlug": "jewels-and-stones",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
             "String"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729924762,
-              "runtime": "2 ms",
-              "memory": "42.5 MB",
-              "githubPath": "LeetCode/Two Pointers/Valid Palindrome/"
+              "syncedAt": 1784729931224,
+              "runtime": "1 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Hash Table/Jewels and Stones/"
             }
           }
         },
-        "lexicographically-smallest-string-after-applying-operations": {
-          "questionId": "1625",
-          "title": "Lexicographically Smallest String After Applying Operations",
-          "titleSlug": "lexicographically-smallest-string-after-applying-operations",
-          "difficulty": "Medium",
-          "tags": [
-            "String",
-            "Depth-First Search",
-            "Breadth-First Search",
-            "Enumeration"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729924762,
-              "runtime": "73 ms",
-              "memory": "46 MB",
-              "githubPath": "LeetCode/String/Lexicographically Smallest String After Applying Operations/"
-            }
-          }
-        },
-        "convert-sorted-array-to-binary-search-tree": {
-          "questionId": "108",
-          "title": "Convert Sorted Array to Binary Search Tree",
-          "titleSlug": "convert-sorted-array-to-binary-search-tree",
+        "find-resultant-array-after-removing-anagrams": {
+          "questionId": "2273",
+          "title": "Find Resultant Array After Removing Anagrams",
+          "titleSlug": "find-resultant-array-after-removing-anagrams",
           "difficulty": "Easy",
           "tags": [
             "Array",
-            "Divide and Conquer",
-            "Tree",
-            "Binary Search Tree",
-            "Binary Tree"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729924762,
-              "runtime": "0 ms",
-              "memory": "43.4 MB",
-              "githubPath": "LeetCode/Array/Convert Sorted Array to Binary Search Tree/"
-            }
-          }
-        },
-        "maximum-number-of-distinct-elements-after-operations": {
-          "questionId": "3397",
-          "title": "Maximum Number of Distinct Elements After Operations",
-          "titleSlug": "maximum-number-of-distinct-elements-after-operations",
-          "difficulty": "Medium",
-          "tags": [
-            "Array",
-            "Greedy",
+            "Hash Table",
+            "String",
             "Sorting"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729924762,
-              "runtime": "19 ms",
-              "memory": "57.9 MB",
-              "githubPath": "LeetCode/Array/Maximum Number of Distinct Elements After Operations/"
+              "syncedAt": 1784729931224,
+              "runtime": "3 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/Array/Find Resultant Array After Removing Anagrams/"
             }
           }
         },
-        "number-of-1-bits": {
-          "questionId": "191",
-          "title": "Number of 1 Bits",
-          "titleSlug": "number-of-1-bits",
+        "check-if-the-sentence-is-pangram": {
+          "questionId": "1832",
+          "title": "Check if the Sentence Is Pangram",
+          "titleSlug": "check-if-the-sentence-is-pangram",
           "difficulty": "Easy",
           "tags": [
-            "Divide and Conquer",
-            "Bit Manipulation"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729924762,
-              "runtime": "0 ms",
-              "memory": "40.7 MB",
-              "githubPath": "LeetCode/Divide and Conquer/Number of 1 Bits/"
-            }
-          }
-        },
-        "maximize-the-number-of-partitions-after-operations": {
-          "questionId": "3003",
-          "title": "Maximize the Number of Partitions After Operations",
-          "titleSlug": "maximize-the-number-of-partitions-after-operations",
-          "difficulty": "Hard",
-          "tags": [
-            "String",
-            "Dynamic Programming",
-            "Bit Manipulation",
-            "Bitmask"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729924762,
-              "runtime": "499 ms",
-              "memory": "102.2 MB",
-              "githubPath": "LeetCode/String/Maximize the Number of Partitions After Operations/"
-            }
-          }
-        },
-        "count-the-number-of-consistent-strings": {
-          "questionId": "1684",
-          "title": "Count the Number of Consistent Strings",
-          "titleSlug": "count-the-number-of-consistent-strings",
-          "difficulty": "Easy",
-          "tags": [
-            "Array",
             "Hash Table",
-            "String",
-            "Bit Manipulation",
-            "Counting"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729924762,
-              "runtime": "6 ms",
-              "memory": "45.3 MB",
-              "githubPath": "LeetCode/Array/Count the Number of Consistent Strings/"
-            }
-          }
-        },
-        "smallest-missing-non-negative-integer-after-operations": {
-          "questionId": "2598",
-          "title": "Smallest Missing Non-negative Integer After Operations",
-          "titleSlug": "smallest-missing-non-negative-integer-after-operations",
-          "difficulty": "Medium",
-          "tags": [
-            "Array",
-            "Hash Table",
-            "Math",
-            "Greedy"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729924762,
-              "runtime": "7 ms",
-              "memory": "58.3 MB",
-              "githubPath": "LeetCode/Array/Smallest Missing Non-negative Integer After Operations/"
-            }
-          }
-        },
-        "to-lower-case": {
-          "questionId": "709",
-          "title": "To Lower Case",
-          "titleSlug": "to-lower-case",
-          "difficulty": "Easy",
-          "tags": [
             "String"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729924762,
-              "runtime": "0 ms",
-              "memory": "42.1 MB",
-              "githubPath": "LeetCode/String/To Lower Case/"
+              "syncedAt": 1784729931224,
+              "runtime": "2 ms",
+              "memory": "41.6 MB",
+              "githubPath": "LeetCode/Hash Table/Check if the Sentence Is Pangram/"
+            }
+          }
+        },
+        "find-sum-of-array-product-of-magical-sequences": {
+          "questionId": "3539",
+          "title": "Find Sum of Array Product of Magical Sequences",
+          "titleSlug": "find-sum-of-array-product-of-magical-sequences",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Math",
+            "Dynamic Programming",
+            "Bit Manipulation",
+            "Combinatorics",
+            "Bitmask"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729931224,
+              "runtime": "19 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Find Sum of Array Product of Magical Sequences/"
+            }
+          }
+        },
+        "remove-all-adjacent-duplicates-in-string": {
+          "questionId": "1047",
+          "title": "Remove All Adjacent Duplicates In String",
+          "titleSlug": "remove-all-adjacent-duplicates-in-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729931224,
+              "runtime": "10 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/String/Remove All Adjacent Duplicates In String/"
             }
           }
         }
