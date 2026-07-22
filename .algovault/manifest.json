@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T15:23:33.437Z",
+  "lastUpdated": "2026-07-22T15:23:42.845Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -880,7 +880,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732631591,
+              "syncedAt": 1784733822845,
               "runtime": "2 ms",
               "memory": "45.5 MB",
               "githubPath": "LeetCode/Array/Permutations/"
@@ -898,7 +898,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732631591,
+              "syncedAt": 1784733822845,
               "runtime": "2 ms",
               "memory": "45.6 MB",
               "githubPath": "LeetCode/Array/Combination Sum/"
@@ -917,7 +917,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732631591,
+              "syncedAt": 1784733822845,
               "runtime": "1 ms",
               "memory": "44.3 MB",
               "githubPath": "LeetCode/Array/Subsets/"
@@ -936,7 +936,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732631591,
+              "syncedAt": 1784733822845,
               "runtime": "1 ms",
               "memory": "52.2 MB",
               "githubPath": "LeetCode/Hash Table/Intersection of Two Linked Lists/"
@@ -953,7 +953,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732631591,
+              "syncedAt": 1784733822845,
               "runtime": "0 ms",
               "memory": "45.7 MB",
               "githubPath": "LeetCode/Linked List/Remove Duplicates from Sorted List/"
@@ -972,7 +972,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732631591,
+              "syncedAt": 1784733822845,
               "runtime": "0 ms",
               "memory": "46.8 MB",
               "githubPath": "LeetCode/Hash Table/Linked List Cycle/"
@@ -989,7 +989,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732631591,
+              "syncedAt": 1784733822845,
               "runtime": "0 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/Linked List/Delete Node in a Linked List/"
@@ -1007,7 +1007,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732631591,
+              "syncedAt": 1784733822845,
               "runtime": "35 ms",
               "memory": "99.8 MB",
               "githubPath": "LeetCode/Stack/Min Stack/"
@@ -1025,7 +1025,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732631591,
+              "syncedAt": 1784733822845,
               "runtime": "5 ms",
               "memory": "69.4 MB",
               "githubPath": "LeetCode/Array/Maximum Average Subarray I/"
@@ -1042,7 +1042,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732631591,
+              "syncedAt": 1784733822845,
               "runtime": "2 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/String/Count and Say/"
@@ -1060,7 +1060,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732631591,
+              "syncedAt": 1784733822845,
               "runtime": "1 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Math/Sqrt(x)/"
@@ -1077,7 +1077,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732631591,
+              "syncedAt": 1784733822845,
               "runtime": "6 ms",
               "memory": "46.2 MB",
               "githubPath": "LeetCode/Math/Palindrome Number/"
@@ -1095,7 +1095,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732631591,
+              "syncedAt": 1784733822845,
               "runtime": "38 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/Array/Two Sum/"
