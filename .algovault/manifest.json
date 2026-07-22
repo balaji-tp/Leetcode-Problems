@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T17:18:31.519Z",
+  "lastUpdated": "2026-07-22T17:24:23.744Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4192,6 +4192,12 @@
               "syncedAt": 1784740711519,
               "runtime": "N/A",
               "memory": "N/A",
+              "githubPath": "Codeforces/math/Elephant/"
+            },
+            "python": {
+              "syncedAt": 1784741063744,
+              "runtime": "62 ms",
+              "memory": "0 KB",
               "githubPath": "Codeforces/math/Elephant/"
             }
           }
